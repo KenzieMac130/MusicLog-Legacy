@@ -1,0 +1,324 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Deployments 10.22.2018
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+Access.dat=C:\VB Projects\VB MusicLog development\Access.dat
+BackupList2.dat=C:\MusicLog 5-28-2015\BackupList2.dat
+DefaultReadings.dat=C:\MusicLog 5-28-2015\DefaultReadings.dat
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\RICHTX32.OCX=
+C:\WINDOWS\system32\COMDLG32.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+c:\program files\microsoft visual studio\vb98\access.dat=
+c:\program files\microsoft visual studio\vb98\minmax.dat=
+c:\program files\microsoft visual studio\vb98\stations.dat=
+c:\program files\microsoft visual studio\vb98\xmitterideal.dat=
+c:\program files\microsoft visual studio\vb98\readingsl.dat=
+c:\program files\microsoft visual studio\vb98\defaulttimes.dat=
+c:\program files\microsoft visual studio\vb98\defaultxmitterideal.dat=
+c:\program files\microsoft visual studio\vb98\times.dat=
+c:\program files\microsoft visual studio\vb98\defaultdate.dat=
+c:\program files\microsoft visual studio\vb98\defaultminmax.dat=
+c:\program files\microsoft visual studio\vb98\defaultreadings.dat=
+c:\program files\microsoft visual studio\vb98\defaultstation.dat=
+c:\program files\microsoft visual studio\vb98\planinglist.dat=
+c:\program files\microsoft visual studio\vb98\planinglist2.dat=
+c:\program files\microsoft visual studio\vb98\a_loglog.txt=
+c:\program files\microsoft visual studio\vb98\backuplist1.dat=
+c:\program files\microsoft visual studio\vb98\listat2.dat=
+c:\program files\microsoft visual studio\vb98\listat3.dat=
+c:\program files\microsoft visual studio\vb98\listat4.dat=
+c:\program files\microsoft visual studio\vb98\listat5.dat=
+c:\program files\microsoft visual studio\vb98\listdate3.dat=
+c:\program files\microsoft visual studio\vb98\listvt4.dat=
+c:\program files\microsoft visual studio\vb98\backuplist2.dat=
+c:\program files\microsoft visual studio\vb98\listat6.dat=
+c:\program files\microsoft visual studio\vb98\listat7.dat=
+c:\program files\microsoft visual studio\vb98\listat8.dat=
+c:\program files\microsoft visual studio\vb98\listat9.dat=
+c:\program files\microsoft visual studio\vb98\listdate7.dat=
+c:\program files\microsoft visual studio\vb98\activity.dat=
+c:\program files\microsoft visual studio\vb98\backuplineup.dat=
+c:\program files\microsoft visual studio\vb98\filereminder.dat=
+c:\program files\microsoft visual studio\vb98\showheader.dat=
+c:\program files\microsoft visual studio\vb98\viewscreen.dat=
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\program files\microsoft visual studio\vb98\a_loglog.txt=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\MinMax.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Stations.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\XmitterIdeal.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ReadingsL.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultTimes.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultXmitterIdeal.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Times.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultDate.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultMinMax.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultStation.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PlaningList.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PlaningList2.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Access.dat=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\A_LogLog.txt=No
+C:\Program Files\Microsoft Visual Studio\VB98\BackupList1.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT2.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT3.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT4.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT5.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ListDate3.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ListVT4.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT6.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT7.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT8.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT9.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ListDate7.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Activity.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\BackupLineup.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\FileReminder.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ShowHeader.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\ViewScreen.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\BackupList2.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultReadings.dat=Yes
+C:\MusicLog 10-15-2018\MusicLog.exe=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\VB Projects\MusicLog Development\MusicLog.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\VB Projects\MusicLog Development\Access.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\MinMax.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\Stations.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\XmitterIdeal.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\ReadingsL.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\DefaultTimes.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\DefaultXmitterIdeal.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\Times.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\DefaultDate.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\DefaultMinMax.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\DefaultReadings.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\DefaultStation.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\PlaningList.dat=$(AppPath)
+C:\VB Projects\MusicLog Development\PlaningList2.dat=$(AppPath)
+C:\VB Projects\VB MusicLog development\MusicLog.exe=$(AppPath)
+C:\VB Projects\VB MusicLog development\Access.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\MinMax.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Stations.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\XmitterIdeal.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ReadingsL.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultTimes.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultXmitterIdeal.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Times.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultDate.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultMinMax.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultReadings.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultStation.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PlaningList.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PlaningList2.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Access.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\MusicLog.exe=$(AppPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\VB Projects\MusicLog_public\A_LogLog.txt=$(AppPath)
+C:\VB Projects\MusicLog_public\BackupList1.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ListAT2.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ListAT3.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ListAT4.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ListAT5.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ListDate3.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ListVT4.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\BackupList2.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ListAT6.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ListAT7.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ListAT8.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ListAT9.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ListDate7.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\Activity.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\BackupLineup.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\FileReminder.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ShowHeader.dat=$(AppPath)
+C:\VB Projects\MusicLog_public\ViewScreen.dat=$(AppPath)
+C:\MusicLog 5-28-2015\MusicLog.exe=$(AppPath)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\MusicLog 5-28-2015\DefaultReadings.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\BackupList1.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT2.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT3.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT4.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT5.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ListDate3.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ListVT4.dat=$(AppPath)
+C:\MusicLog 5-28-2015\BackupList2.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT6.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT7.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT8.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT9.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ListDate7.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Activity.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\BackupLineup.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\FileReminder.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ShowHeader.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\ViewScreen.dat=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\BackupList2.dat=$(AppPath)
+C:\MusicLog 06-30-2017\MusicLog.exe=$(AppPath)
+C:\MusicLog 12-20-2017\MusicLog.exe=$(AppPath)
+C:\MusicLog 10-15-2018\MusicLog.exe=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\VB Projects\MusicLog Development\MusicLog.exe=No
+C:\VB Projects\MusicLog Development\Access.dat=No
+C:\VB Projects\MusicLog Development\MinMax.dat=No
+C:\VB Projects\MusicLog Development\Stations.dat=No
+C:\VB Projects\MusicLog Development\XmitterIdeal.dat=No
+C:\VB Projects\MusicLog Development\ReadingsL.dat=No
+C:\VB Projects\MusicLog Development\DefaultTimes.dat=No
+C:\VB Projects\MusicLog Development\DefaultXmitterIdeal.dat=No
+C:\VB Projects\MusicLog Development\Times.dat=No
+C:\VB Projects\MusicLog Development\DefaultDate.dat=No
+C:\VB Projects\MusicLog Development\DefaultMinMax.dat=No
+C:\VB Projects\MusicLog Development\DefaultReadings.dat=No
+C:\VB Projects\MusicLog Development\DefaultStation.dat=No
+C:\VB Projects\MusicLog Development\PlaningList.dat=No
+C:\VB Projects\MusicLog Development\PlaningList2.dat=No
+C:\VB Projects\VB MusicLog development\MusicLog.exe=No
+C:\VB Projects\VB MusicLog development\Access.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\MinMax.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\Stations.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\XmitterIdeal.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ReadingsL.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultTimes.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultXmitterIdeal.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\Times.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultDate.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultMinMax.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultReadings.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\DefaultStation.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\PlaningList.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\PlaningList2.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\Access.dat=No
+C:\VB Projects\MusicLog_public\MusicLog.exe=No
+C:\VB Projects\MusicLog_public\A_LogLog.txt=No
+C:\VB Projects\MusicLog_public\BackupList1.dat=No
+C:\VB Projects\MusicLog_public\ListAT2.dat=No
+C:\VB Projects\MusicLog_public\ListAT3.dat=No
+C:\VB Projects\MusicLog_public\ListAT4.dat=No
+C:\VB Projects\MusicLog_public\ListAT5.dat=No
+C:\VB Projects\MusicLog_public\ListDate3.dat=No
+C:\VB Projects\MusicLog_public\ListVT4.dat=No
+C:\VB Projects\MusicLog_public\BackupList2.dat=No
+C:\VB Projects\MusicLog_public\ListAT6.dat=No
+C:\VB Projects\MusicLog_public\ListAT7.dat=No
+C:\VB Projects\MusicLog_public\ListAT8.dat=No
+C:\VB Projects\MusicLog_public\ListAT9.dat=No
+C:\VB Projects\MusicLog_public\ListDate7.dat=No
+C:\VB Projects\MusicLog_public\Activity.dat=No
+C:\VB Projects\MusicLog_public\BackupLineup.dat=No
+C:\VB Projects\MusicLog_public\FileReminder.dat=No
+C:\VB Projects\MusicLog_public\ShowHeader.dat=No
+C:\VB Projects\MusicLog_public\ViewScreen.dat=No
+C:\MusicLog 5-28-2015\MusicLog.exe=No
+C:\MusicLog 5-28-2015\DefaultReadings.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\BackupList1.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT2.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT3.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT4.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT5.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ListDate3.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ListVT4.dat=No
+C:\MusicLog 5-28-2015\BackupList2.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT6.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT7.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT8.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ListAT9.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ListDate7.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\Activity.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\BackupLineup.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\FileReminder.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ShowHeader.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\ViewScreen.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\BackupList2.dat=No
+C:\MusicLog 06-30-2017\MusicLog.exe=No
+C:\MusicLog 12-20-2017\MusicLog.exe=No
+C:\MusicLog 10-15-2018\MusicLog.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=MusicLog
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=MusicLog
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|MusicLog]
+Icon1=MusicLog.exe
+Title1=MusicLog
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Deployments 10.22.2018
+ProjectFolder=C:\MusicLog 10-15-2018
+ServerSideCab=
+File1=C:\Deployments 10.22.2018\setup.exe
+File2=C:\Deployments 10.22.2018\Setup.Lst
+File3=C:\Deployments 10.22.2018\MusicLog.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
